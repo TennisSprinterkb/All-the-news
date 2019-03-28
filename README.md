@@ -2,7 +2,7 @@
 MongoDB and Mongoose
 MongoScraper the observer Edition is an interactive app that enables users to scrape news articles from the observer. The user can save articles and add, view and delete notes to the articles that have been saved.
 
-This application is deployed on Heroku at 
+This application is deployed on Heroku at https://kb-news.herokuapp.com/
 
 Dependencies
 package.json lists the dependencies that are needed. This includes axios, cheerio, express, express-handlebars, mongojs, mongoose and morgan.
